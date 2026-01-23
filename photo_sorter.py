@@ -1,7 +1,6 @@
 import face_recognition
 import os
 import shutil
-import cv2
 
 INPUT_DIR = r"C:\Users\kunal\OneDrive\Desktop\Photo sorter"
 OUTPUT_DIR = "output_photos"
