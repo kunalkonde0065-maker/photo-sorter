@@ -3,7 +3,7 @@ import os
 import shutil
 import numpy as np
 
-INPUT_DIR = r"C:\Users\kunal\OneDrive\Desktop\Photo sorter"
+INPUT_DIR = "input_image"
 OUTPUT_DIR = "output_photos"
 
 TOLERANCE = 0.5
