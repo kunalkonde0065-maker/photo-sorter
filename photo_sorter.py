@@ -3,7 +3,7 @@ import os
 import shutil
 
 
-INPUT_DIR = r"C:\Users\kunal\OneDrive\Desktop\Photo sorter"
+INPUT_DIR = "input_photos"
 OUTPUT_DIR = "output_photos"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
