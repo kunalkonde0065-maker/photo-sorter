@@ -3,7 +3,7 @@ import os
 import shutil
 import numpy as np
 
-INPUT_DIR = "input_image"
+INPUT_DIR = "input_photos"
 OUTPUT_DIR = "output_photos"
 
 TOLERANCE = 0.5
